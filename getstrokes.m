@@ -1,3 +1,5 @@
+% Identification of starting point of individual drumming strokes/cello bowing from velocity profiles
+
 
 function [pks,locs,strokes,stroketimes,T] = getstrokes(V,sampf,height,pkdur)
 

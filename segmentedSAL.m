@@ -1,4 +1,5 @@
 %Calculating Spectral Arc Length for all strokes in a trial and plotting the results
+%Requires SPARC function https://github.com/siva82kb/smoothness/blob/master/matlab/SpectralArcLength.m
 
 function ssal = segmentedSAL(strokescell)
 

@@ -1,3 +1,5 @@
+%Calculating Spectral Arc Length for all strokes in a trial and plotting the results
+
 function ssal = segmentedSAL(strokescell)
 
 ssal = zeros(numel(strokescell),1);
